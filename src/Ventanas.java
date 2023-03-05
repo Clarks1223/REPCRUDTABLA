@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Ventanas {
+public abstract class Ventanas {
+    public abstract void abrirVentana();
+    public abstract void cerrarventana();
 }
